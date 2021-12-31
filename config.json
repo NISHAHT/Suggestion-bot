@@ -1,0 +1,25 @@
+{
+    "defaults": {
+        "prefix": "c!",
+        "statusType": "WATCHING",
+        "statusMessage": "Devil Nishant"
+    },
+
+    "autorole": {
+        "roleid" : "872341928648245298",
+        "toggle" : true 
+    },
+
+    "suggestion": {
+        "channelid" : "914161526078849055",
+        "toggle" : true
+    },
+
+    "addrole": {
+        "toggle" : true
+    },
+
+    "removerole": {
+        "toggle" : true
+    }
+}
